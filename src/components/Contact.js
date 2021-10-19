@@ -12,7 +12,8 @@ const Contact = () => {
 }
 
 export default Contact
-//---------1
+
+// 1
 // const Contact = ({history}) => {
 //     return (
 //         <div>
@@ -22,7 +23,7 @@ export default Contact
 //     )
 // }
 
-//---------2
+// 2
 // const Contact = ({this.props.}) => {
 //     return (
 //         <div>
